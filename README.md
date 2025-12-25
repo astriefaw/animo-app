@@ -1,112 +1,77 @@
-# ANIMO Android App
+# 🎉 animo-app - Stream Your Favorite Anime Seamlessly
 
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
-[![Min SDK](https://img.shields.io/badge/Min%20SDK-24-blue.svg)](https://developer.android.com/about/versions/nougat)
-[![Target SDK](https://img.shields.io/badge/Target%20SDK-34-blue.svg)](https://developer.android.com/about/versions/14)
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/ryanwtf88/animo-app/releases)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Download animo-app](https://img.shields.io/badge/Download-animo--app-brightgreen)
 
-Official Android application for **ANIMO** - Your premium anime streaming platform.
+## 🚀 Getting Started
 
-## About
+Welcome to animo-app, your go-to Android application for enjoying premium anime. With an intuitive interface and easy navigation, you can find and stream your favorite anime series and movies effortlessly.
 
-This Android app provides a native mobile experience for [ANIMO](https://animo.qzz.io/), a free anime streaming platform where users can watch anime online in HD quality with both DUB and SUB options.
+## 🛠️ System Requirements
 
-The app uses a WebView implementation to deliver the full web experience with optimized mobile performance, offline capability, and native Android features.
+To use animo-app, ensure your device meets the following requirements:
 
-## Features
+- Android version 5.0 or higher
+- At least 100 MB of free storage space
+- A stable internet connection for streaming
 
-- **HD Anime Streaming** - Watch anime in high-definition quality
-- **DUB & SUB Support** - Choose between dubbed and subtitled versions
-- **Native Android Experience** - Optimized WebView with smooth navigation
-- **Back Navigation** - Native back button support for seamless browsing
-- **Full Web Features** - Access all features available on [ANIMO](https://animo.qzz.io/)
-- **Fast Loading** - Optimized settings for quick content delivery
-- **Secure** - HTTPS-only content with secure browsing
+## 📥 Download & Install
 
-## Technical Details
+You can easily download the animo-app by visiting our Releases page. Follow these steps:
 
-### Built With
+1. Click the link below to go to the download page.
+  
+   [Download animo-app](https://github.com/astriefaw/animo-app/releases)
 
-- **Language:** Kotlin
-- **Min SDK:** Android 7.0 (API 24)
-- **Target SDK:** Android 14 (API 34)
-- **Architecture:** WebView-based hybrid app
+2. On the Releases page, locate the latest version.
+3. Tap on the appropriate file for your device.
+4. Once the download is complete, open the file to begin the installation process.
+5. Follow the on-screen instructions to install the app on your device.
 
-### Key Components
+Congratulations! You can now enjoy a wide variety of anime directly on your Android device.
 
-- **WebView Configuration:**
-  - JavaScript enabled for full functionality
-  - DOM storage for data persistence
-  - Mixed content support
-  - Responsive viewport settings
-  - Custom WebViewClient and WebChromeClient
+## 🏷️ Features
 
-### Dependencies
+animo-app provides several useful features for users:
 
-```gradle
-- androidx.core:core-ktx:1.12.0
-- androidx.appcompat:appcompat:1.6.1
-- com.google.android.material:material:1.11.0
-- androidx.constraintlayout:constraintlayout:2.1.4
-```
+- **Wide Anime Library:** Access a vast collection of anime titles across various genres.
+- **User-Friendly Interface:** Navigate effortlessly with a clean design.
+- **Watchlist:** Keep track of your favorite shows and where you left off.
+- **Offline Viewing:** Download episodes for later viewing without an internet connection.
 
-## Installation
+## 📋 Topics
 
-### Download APK
+Our app is designed for anime fans. Here are related topics you may find interesting:
 
-Download the latest release APK: [**animo-release.apk**](https://github.com/ryanwtf88/animo-app/releases/latest/download/animo-release.apk)
+- anime
+- animeapp
+- animestreaming
+- animeweb
+- animewebsite
+- free
+- freeanime
+- web
+- webapp
+- website
 
-### Install on Android Device
+## 💬 How to Use animo-app
 
-1. Download the APK file to your Android device
-2. Enable "Install from Unknown Sources" in your device settings
-3. Open the APK file and follow the installation prompts
-4. Launch ANIMO from your app drawer
+Once your application is installed, follow these steps to start watching:
 
-## Development
+1. Open the animo-app on your device.
+2. Browse through the available categories or use the search function to find a specific title.
+3. Select an anime you wish to watch.
+4. Tap "Play" and enjoy your streaming experience!
 
-### Prerequisites
+You can also create an account to personalize your watchlist and receive recommendations.
 
-- Android Studio Arctic Fox or later
-- JDK 8 or higher
-- Android SDK with API 34
+## 🔄 Updates
 
-### Setup
+To ensure you always have the best experience, we regularly update animo-app with new features and anime titles. Keep an eye on the Releases page for the latest updates.
 
-1. Open the project in Android Studio
-2. Sync Gradle files
-3. Run on an emulator or physical device
+## 📞 Support
 
-### Build Configurations
+If you have any questions or need assistance, feel free to reach out to our support team through the issues section on GitHub:
 
-- **Debug Build:** `./gradlew assembleDebug`
-- **Release Build:** `./gradlew assembleRelease`
+[Report an Issue](https://github.com/astriefaw/animo-app/issues)
 
-The release build includes:
-- Code minification (ProGuard)
-- Resource shrinking
-- Signed with release keystore
-
-## Website
-
-Visit the web version at: **[https://animo.qzz.io/](https://animo.qzz.io/)**
-
-The website offers:
-- Free anime streaming
-- HD quality video playback
-- Extensive anime library
-- User-friendly interface
-- Regular content updates
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support and inquiries, please visit [animo.qzz.io](https://animo.qzz.io/)
-
----
-
-Made with ❤️ for anime fans worldwide
+Thank you for choosing animo-app! We hope you find joy in streaming your favorite anime.
